@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vr2.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\project unity\\VR №2\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VR №2 [Testing]"
+        }
+      }
+    }
+  ]
+}
